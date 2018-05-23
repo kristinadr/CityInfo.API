@@ -19,7 +19,6 @@ namespace CityInfo.API.Controllers
             {
                 return NotFound();
             }
-
             return Ok(city.PointsOfInterest);
         }
 

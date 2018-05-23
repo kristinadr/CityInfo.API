@@ -1,0 +1,11 @@
+C:\Users\k.draudvilaite\Documents\Visual Studio 2017\Projects\CityInfo.API\Recipes\bin\Debug\netcoreapp2.0\Recipes.deps.json
+C:\Users\k.draudvilaite\Documents\Visual Studio 2017\Projects\CityInfo.API\Recipes\bin\Debug\netcoreapp2.0\Recipes.runtimeconfig.json
+C:\Users\k.draudvilaite\Documents\Visual Studio 2017\Projects\CityInfo.API\Recipes\bin\Debug\netcoreapp2.0\Recipes.runtimeconfig.dev.json
+C:\Users\k.draudvilaite\Documents\Visual Studio 2017\Projects\CityInfo.API\Recipes\bin\Debug\netcoreapp2.0\Recipes.dll
+C:\Users\k.draudvilaite\Documents\Visual Studio 2017\Projects\CityInfo.API\Recipes\bin\Debug\netcoreapp2.0\Recipes.pdb
+C:\Users\k.draudvilaite\Documents\Visual Studio 2017\Projects\CityInfo.API\Recipes\obj\Debug\netcoreapp2.0\Recipes.csproj.CoreCompileInputs.cache
+C:\Users\k.draudvilaite\Documents\Visual Studio 2017\Projects\CityInfo.API\Recipes\obj\Debug\netcoreapp2.0\Recipes.AssemblyInfoInputs.cache
+C:\Users\k.draudvilaite\Documents\Visual Studio 2017\Projects\CityInfo.API\Recipes\obj\Debug\netcoreapp2.0\Recipes.AssemblyInfo.cs
+C:\Users\k.draudvilaite\Documents\Visual Studio 2017\Projects\CityInfo.API\Recipes\obj\Debug\netcoreapp2.0\Recipes.dll
+C:\Users\k.draudvilaite\Documents\Visual Studio 2017\Projects\CityInfo.API\Recipes\obj\Debug\netcoreapp2.0\Recipes.pdb
+C:\Users\k.draudvilaite\Documents\Visual Studio 2017\Projects\CityInfo.API\Recipes\obj\Debug\netcoreapp2.0\Recipes.csprojAssemblyReference.cache

@@ -3,10 +3,9 @@ C:\Users\k.draudvilaite\Documents\Visual Studio 2017\Projects\CityInfo.API\CityI
 C:\Users\k.draudvilaite\Documents\Visual Studio 2017\Projects\CityInfo.API\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.runtimeconfig.dev.json
 C:\Users\k.draudvilaite\Documents\Visual Studio 2017\Projects\CityInfo.API\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.dll
 C:\Users\k.draudvilaite\Documents\Visual Studio 2017\Projects\CityInfo.API\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.pdb
-C:\Users\k.draudvilaite\Documents\Visual Studio 2017\Projects\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.csprojResolveAssemblyReference.cache
 C:\Users\k.draudvilaite\Documents\Visual Studio 2017\Projects\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.csproj.CoreCompileInputs.cache
+C:\Users\k.draudvilaite\Documents\Visual Studio 2017\Projects\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
 C:\Users\k.draudvilaite\Documents\Visual Studio 2017\Projects\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.AssemblyInfoInputs.cache
 C:\Users\k.draudvilaite\Documents\Visual Studio 2017\Projects\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.AssemblyInfo.cs
 C:\Users\k.draudvilaite\Documents\Visual Studio 2017\Projects\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.dll
 C:\Users\k.draudvilaite\Documents\Visual Studio 2017\Projects\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.pdb
-C:\Users\k.draudvilaite\Documents\Visual Studio 2017\Projects\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
